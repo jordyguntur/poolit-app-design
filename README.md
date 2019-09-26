@@ -5,6 +5,6 @@
 
 ![sample](https://github.com/jordyguntur/poolit-app-design/blob/master/sample.png?raw=true)
 
-## [1] Sample Screens
+## 2] Sample Screens
 
-![sample](https://github.com/jordyguntur/poolit-app-design/blob/master/sample2.png?raw=true)
+![sample2](https://github.com/jordyguntur/poolit-app-design/blob/master/sample2.png?raw=true)
