@@ -8,3 +8,7 @@
 ## [2] Sample Screens
 
 ![sample2](https://github.com/jordyguntur/poolit-app-design/blob/master/sample2.png?raw=true)
+
+## [3] Sample Screens
+
+![sample3](https://github.com/jordyguntur/poolit-app-design/blob/master/sample3.png?raw=true)
